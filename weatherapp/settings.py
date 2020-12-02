@@ -25,7 +25,7 @@ SECRET_KEY = 'xft2ya@nv-(xp#t^o!4hlhyn+gsce!y7w*mke9$aw&rrig8xlx'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['django-weather-forecast-app.herokuapp.com']
 
 
 # Application definition
